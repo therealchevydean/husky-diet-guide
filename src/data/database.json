@@ -1,0 +1,228 @@
+{
+  "breed": "Siberian Husky",
+  "overview": {
+    "description": "Siberian Huskies are medium-sized working dogs bred by the Chukchi people of northeastern Asia. They possess a unique metabolism evolved for endurance and cold climates, requiring specific dietary considerations.",
+    "metabolism_type": "High endurance, efficient fat burner",
+    "common_health_sensitivities": [
+      "Zinc-responsive dermatosis",
+      "Food allergies / sensitivities (often to specific grains or proteins)",
+      "Sensitive stomachs",
+      "Tendency to obesity if under-exercised"
+    ]
+  },
+  "nutritional_needs": {
+    "life_stages": {
+      "puppy": {
+        "protein_min_percent": 28.0,
+        "fat_min_percent": 18.0,
+        "calcium_phosphorus_ratio": "1.2:1 to 1.4:1",
+        "notes": "High energy density required for rapid bone and muscle development without excessive growth spurts."
+      },
+      "adult_working": {
+        "protein_min_percent": 30.0,
+        "fat_min_percent": 20.0,
+        "carbohydrate_max_percent": 30.0,
+        "notes": "Designed for endurance sledding; high fat is crucial for sustained energy release."
+      },
+      "adult_pet": {
+        "protein_min_percent": 24.0,
+        "fat_min_percent": 14.0,
+        "carbohydrate_max_percent": 45.0,
+        "notes": "Standard maintenance diet for companion Huskies with moderate daily exercise."
+      },
+      "senior": {
+        "protein_min_percent": 26.0,
+        "fat_min_percent": 10.0,
+        "fat_max_percent": 14.0,
+        "fiber_percent": "4.0 - 6.0",
+        "notes": "Easily digestible proteins, joint supplements (glucosamine/chondroitin), and lower calories to prevent weight gain."
+      }
+    },
+    "key_nutrients": [
+      {
+        "nutrient": "Zinc",
+        "importance": "Critical for Siberian Huskies due to genetic predisposition to poor zinc absorption, leading to skin lesions and coat issues.",
+        "recommended_sources": "Red meat, poultry, zinc proteinate supplements."
+      },
+      {
+        "nutrient": "Omega-3 Fatty Acids (EPA/DHA)",
+        "importance": "Supports double coat health, reduces skin inflammation, and aids cognitive function.",
+        "recommended_sources": "Salmon oil, krill oil, wild-caught fish."
+      },
+      {
+        "nutrient": "High-Quality Protein",
+        "importance": "Maintains lean muscle mass and supports high metabolic output.",
+        "recommended_sources": "Chicken, turkey, lamb, beef, fish, eggs."
+      }
+    ]
+  },
+  "safe_foods": {
+    "meats_and_proteins": [
+      {
+        "name": "Chicken (Cooked, Plain)",
+        "benefit": "Lean source of essential amino acids.",
+        "preparation": "Boiled or baked without seasoning, bones removed."
+      },
+      {
+        "name": "Turkey (Cooked, Plain)",
+        "benefit": "High protein, easily digestible.",
+        "preparation": "Fully cooked, skinless, bone-free."
+      },
+      {
+        "name": "Beef (Lean)",
+        "benefit": "Excellent source of iron, zinc, and B vitamins.",
+        "preparation": "Lean cuts cooked thoroughly."
+      },
+      {
+        "name": "Salmon (Cooked)",
+        "benefit": "Rich in Omega-3 fatty acids for coat and skin.",
+        "preparation": "Fully cooked, boneless."
+      },
+      {
+        "name": "Eggs (Cooked)",
+        "benefit": "Complete protein and biotin for coat sheen.",
+        "preparation": "Scrambled or boiled plain."
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Carrots",
+        "benefit": "Low-calorie crunch, great for dental health and beta-carotene.",
+        "preparation": "Raw or steamed, cut into bite-sized pieces."
+      },
+      {
+        "name": "Green Beans",
+        "benefit": "High fiber, vitamins A, C, and K; good for weight management.",
+        "preparation": "Fresh or plain frozen, steamed or raw."
+      },
+      {
+        "name": "Pumpkin (Plain Canned)",
+        "benefit": "Excellent for digestive health and firming stools.",
+        "preparation": "Plain 100% pure pumpkin puree (no pie filling)."
+      },
+      {
+        "name": "Sweet Potatoes",
+        "benefit": "Complex carbohydrates, fiber, and vitamins.",
+        "preparation": "Cooked, peeled, and mashed or cubed."
+      },
+      {
+        "name": "Broccoli",
+        "benefit": "Rich in fiber and Vitamin C (feed in moderation).",
+        "preparation": "Steamed or chopped raw."
+      }
+    ],
+    "fruits": [
+      {
+        "name": "Blueberries",
+        "benefit": "Powerful antioxidants and vitamins.",
+        "preparation": "Fresh or frozen, washed."
+      },
+      {
+        "name": "Apples",
+        "benefit": "Vitamins A and C, dietary fiber (remove seeds and core).",
+        "preparation": "Sliced, core and seeds completely removed."
+      },
+      {
+        "name": "Watermelon",
+        "benefit": "Hydrating, rich in vitamins A, B6, and C (seedless/rindless).",
+        "preparation": "Seedless flesh only, cubed."
+      },
+      {
+        "name": "Bananas",
+        "benefit": "Potassium, vitamins, and biotin (feed in moderation due to sugar).",
+        "preparation": "Peeled, sliced."
+      }
+    ],
+    "grains_and_carbs": [
+      {
+        "name": "Rice (White or Brown)",
+        "benefit": "Easily digestible energy source, especially soothing for upset stomachs.",
+        "preparation": "Plain boiled."
+      },
+      {
+        "name": "Oatmeal",
+        "benefit": "Soluble fiber, good for dogs with wheat sensitivities.",
+        "preparation": "Cooked plain with water."
+      },
+      {
+        "name": "Quinoa",
+        "benefit": "Complete plant-based protein and mineral source.",
+        "preparation": "Rinsed and cooked plain."
+      }
+    ]
+  },
+  "toxic_foods": [
+    {
+      "food": "Chocolate",
+      "risk_level": "High / Fatal",
+      "toxic_agent": "Theobromine and Caffeine",
+      "symptoms": "Vomiting, diarrhea, increased heart rate, seizures, death."
+    },
+    {
+      "food": "Grapes and Raisins",
+      "risk_level": "High / Fatal",
+      "toxic_agent": "Unknown toxin causing sudden kidney failure",
+      "symptoms": "Lethargy, vomiting, diarrhea, lack of appetite, oliguria."
+    },
+    {
+      "food": "Onions, Garlic, Chives, and Leeks",
+      "risk_level": "High",
+      "toxic_agent": "N-propyl disulfide and thiosulfate",
+      "symptoms": "Oxidative damage to red blood cells, hemolytic anemia, weakness, pale gums."
+    },
+    {
+      "food": "Xylitol (Artificial Sweetener)",
+      "risk_level": "High / Fatal",
+      "toxic_agent": "Massive insulin release causing acute hypoglycemia and liver failure",
+      "symptoms": "Vomiting, lethargy, loss of coordination, seizures, liver failure within hours."
+    },
+    {
+      "food": "Macadamia Nuts",
+      "risk_level": "Moderate to High",
+      "toxic_agent": "Unknown toxin affecting neuromuscular system",
+      "symptoms": "Muscle tremors, weakness, hyperthermia, vomiting."
+    },
+    {
+      "food": "Alcohol",
+      "risk_level": "High / Fatal",
+      "toxic_agent": "Ethanol",
+      "symptoms": "Severe central nervous system depression, respiratory failure, coma, death."
+    },
+    {
+      "food": "Avocado",
+      "risk_level": "Moderate",
+      "toxic_agent": "Persin (found in fruit, pit, leaves, and bark)",
+      "symptoms": "Vomiting, diarrhea, myocardial congestion (especially toxic to birds/horses, mild in dogs)."
+    },
+    {
+      "food": "Caffeinated Beverages (Coffee, Tea, Energy Drinks)",
+      "risk_level": "High",
+      "toxic_agent": "Caffeine",
+      "symptoms": "Restlessness, rapid breathing, heart palpitations, muscle tremors, seizures."
+    },
+    {
+      "food": "Cooked Bones",
+      "risk_level": "High (Physical Hazard)",
+      "toxic_agent": "Splintering hazard",
+      "symptoms": "Internal lacerations, choking, gastrointestinal perforation, bowel obstruction."
+    },
+    {
+      "food": "Raw Yeast Dough",
+      "risk_level": "High",
+      "toxic_agent": "Ethanol production and gas expansion in stomach",
+      "symptoms": "Severe abdominal distension, gastric torsion (bloat), alcohol poisoning."
+    }
+  ],
+  "feeding_guidelines": {
+    "frequency": {
+      "puppies": "3 to 4 meals per day until 6 months, then 2 meals daily.",
+      "adults": "2 meals per day to prevent gastric torsion (bloat) and maintain steady energy."
+    },
+    "hydration": "Always provide fresh, clean water. Huskies, coming from arctic climates, particularly appreciate cool, clean water and need ample hydration especially during warmer months.",
+    "tips": [
+      "Avoid rigorous exercise 1 hour before and after meals to minimize risk of bloat (GDV).",
+      "Monitor coat condition regularly; dull coats or dry skin may indicate zinc deficiency or fatty acid imbalance.",
+      "Adjust portion sizes based on activity level—working/sledding Huskies require significantly higher caloric intake than sedentary house pets."
+    ]
+  }
+}
